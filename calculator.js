@@ -1,7 +1,7 @@
 //even and odd num using functions
 
-let number=13
-let answer=(number % 2)
+let number = 13;
+let answer = (number % 2);
 function evenOrOdd() {
   if (answer==0) {
     console.log ("Even");
@@ -9,4 +9,4 @@ function evenOrOdd() {
     console.log ("Odd");
   }
 }
-evenOrOdd()
+evenOrOdd();
